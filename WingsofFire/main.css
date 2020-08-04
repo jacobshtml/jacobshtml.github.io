@@ -54,6 +54,7 @@ body {
 .overlay a.closebtn:focus {
   color: #00fff7;
   font-size: 60px;
+  transform: rotate(360deg);
 }
 
 .overlay .closebtn {
