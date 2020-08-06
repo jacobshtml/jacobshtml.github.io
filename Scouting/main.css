@@ -1,8 +1,35 @@
-img {
-  width: auto;
-  height:120px;
+div {
+
   margin: auto;
   display: block;
+}
+
+#cyberchip {
+  height: auto;
+  width: 100px;
+
+
+
+
+
+
+}
+
+#dumplings {
+  height: auto;
+  width: 275px;
+  
+  
+  
+  
+}
+#thing{
+  margin-top: 35px;
+  margin-right: 10px;
+  float: right;
+  height: auto;
+  width: 100px;
+ 
 }
 body {
   background-color: #f7ca00;
