@@ -1,36 +1,33 @@
-div {
-
-  margin: auto;
-  display: block;
+#header {
+  display: flex;
+  justify-content: space-between;
 }
 
-#cyberchip {
-  height: auto;
-  width: 100px;
-
-
-
-
-
-
+#header #left {
+  width: 20%;
 }
 
-#dumplings {
-  height: auto;
-  width: 275px;
-  
-  
-  
-  
+#header #right {
+  width: 20%;
 }
-#thing{
-  margin-top: 35px;
-  margin-right: 10px;
+
+#header #center {
+  width: 50%;
+}
+
+#header #left img {
+  height: 180px;
+}
+
+#header #center img {
+  width: 100%;
+}
+
+#header #right img {
+  height: 120px;
   float: right;
-  height: auto;
-  width: 100px;
- 
 }
+
 body {
   background-color: #f7ca00;
 }
