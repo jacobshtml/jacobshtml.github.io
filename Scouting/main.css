@@ -16,7 +16,7 @@
 }
 
 #header #left img {
-  height: 180px;
+  width: 100%;
 }
 
 #header #center img {
@@ -24,7 +24,7 @@
 }
 
 #header #right img {
-  height: 120px;
+  width: 100%;
   float: right;
 }
 
