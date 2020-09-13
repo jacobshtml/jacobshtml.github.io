@@ -94,10 +94,24 @@ ul li {
   color: white;
   font-family: sans-serif;
 }
-#hi iframe {
-  width: 300px;
-  height: auto;
-  
-  
+
+#hi div {
+  overflow: hidden;
+  padding-bottom: 28.125%;
+  position: relative;
+  height: 0px;
+
+
+
+
+
+}
+
+#hi div iframe {
+  left: 25%;
+  top: 0;
+  height: 100%;
+  width: 50%;
+  position: absolute;
   
 }
