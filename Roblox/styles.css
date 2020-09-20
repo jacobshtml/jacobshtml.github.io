@@ -12,7 +12,7 @@ img {
 ul {
   list-style-type: none;
   background: silver;
-  height: 40px;
+  height: 45px;
   margin: 0;
   padding: 0;
 }
@@ -20,7 +20,7 @@ ul {
 li {
   display: block;
   float: left;
-  padding: 5px;
+  padding: 10px;
   font-size: 35px;
 }
 html, body {
