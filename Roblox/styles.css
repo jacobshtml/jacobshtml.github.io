@@ -32,3 +32,21 @@ a {
   color: black;
   text-decoration: none;
 }
+body {
+    -webkit-animation: colorchange 50s infinite; 
+    animation: colorchange 50s infinite;
+}
+@-webkit-keyframes colorchange {
+     0%  {background: #33FFF3;}
+    25%  {background: #ff1a00;}
+    50%  {background: #0022ff;}
+    75%  {background: #ff6500;}
+   
+}
+@keyframes colorchange {
+     0%  {background: #33FFF3;}
+    25%  {background: #ff1a00;}
+    50%  {background: #0022ff;}
+    75%  {background: #ff6500;}
+    
+}
