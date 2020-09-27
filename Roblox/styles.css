@@ -8,7 +8,9 @@ img {
   display: block;
   padding-bottom: 2%;
 }
-
+#PNG {
+width: 25%;
+}
 ul {
   list-style-type: none;
   background: silver;
