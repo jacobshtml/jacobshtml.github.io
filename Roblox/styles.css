@@ -10,6 +10,7 @@ img {
 }
 #PNG {
 width: 25% !important;
+height:auto !important;
 }
 ul {
   list-style-type: none;
