@@ -3,7 +3,7 @@ h1 {
 }
 
 img {
-  width: 60%;
+  height: calc((94% - 45px)/3);
   margin: auto;
   display: block;
   padding-bottom: 2%;
