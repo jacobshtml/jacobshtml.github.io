@@ -28,3 +28,9 @@ body,html {
 #bar {
   background-color: #00dba1;
 }
+img {
+  height: 250px;
+  width: auto;
+  margin: auto;
+  display: block;
+}
