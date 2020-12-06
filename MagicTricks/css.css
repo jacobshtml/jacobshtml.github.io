@@ -34,3 +34,22 @@ img {
   margin: auto;
   display: block;
 }
+h1 {
+  text-align: center;
+  font-size: 40px;
+
+  transition: font-size 2s, transform 1s;
+}
+
+.big {
+  font-size: 85px;
+}
+
+.rotate {
+  transform: rotate(360deg);
+}
+
+.small {
+  font-size: 40px;
+}
+
