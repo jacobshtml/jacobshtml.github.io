@@ -52,12 +52,12 @@ h1 {
 .small {
   font-size: 40px;
 }
-li {
+p {
   font-size: 20px;
 }
 
 @media (min-width: 500px) {
-  li {
+  p {
     font-size: 50px;
   }
 }
