@@ -1,0 +1,44 @@
+body, html {
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	background: #00dba1;
+	border-radius: 10px;
+	height: 50px;
+	width: 150px;
+	margin: 2px auto 2px auto;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 0px 5px 4px #263666;
+	font-family: arial,serif;
+	font-size: 40px;
+	font-weight: bold;
+	transition: font-size 2s, transform 1s;
+	display: block;
+}
+
+.myButton {
+	box-shadow: inset 0px 8px 7px 0px #00dba1;
+	background: linear-gradient(to bottom, #00dba1 5%, #00dba1, 100%);
+	background-color: #00dba1;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: arial,serif;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 5px 10px;
+	text-decoration: none;
+	text-shadow: 0px 5px 4px #263666;
+}
+
+.myButton:hover {
+    background-color: #00c28e;
+}
+
+
+#bar {
+	background-color: #00dba1;
+}
